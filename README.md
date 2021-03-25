@@ -10,7 +10,11 @@ Currently running airdrops (All that I know as of now)
 OKEX CHAIN SETUP:
 
 Name: OKEXTest Chain
+
 RPC URL: https://exchaintest.okexcn.com/
+
 Chain ID: 65
+
 Currency : OKT
+
 Explorer url: Leave Empty 
