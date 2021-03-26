@@ -14,8 +14,8 @@ Not confirmed Airdrops but we can still earn maybe in future:
 
 2 . [Lemond Money](https://www.lemond.money/farm?inviter=0x9f843eFF53f2Ec551C2Fcdd32aA5eEF25a6fA4e4) #stake tokens airdrop round 1 is over round 2 will start and we have to be in it 😉
 
-
-#After Joining 3 staking pools of different programs(gegeswap,pandaswap,kingkongswap etc...) go here and fill form
+# Very Important
+#After Joining 3 staking pools of different programs(gegeswap,pandaswap,kingkongswap etc...) go here and fill form 
 
 https://wj.qq.com/s2/8166564/a259/
 
